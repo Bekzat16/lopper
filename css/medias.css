@@ -1,0 +1,2165 @@
+@media (max-width: 1300px) {
+    .logo a {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 900;
+        font-size: 24px;
+        line-height: 43px;
+        letter-spacing: 2px;
+        color: #30124E;
+        text-decoration: none;
+        margin-left: 48px;
+    }
+
+    nav {
+        display: none;
+    }
+
+    .header-title h2 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 50px;
+        line-height: 80px;
+        color: #F61067;
+        margin-top: 70px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .header-title h4 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 15px;
+        line-height: 37px;
+        letter-spacing: 4px;
+        text-transform: uppercase;
+        color: #F4F4ED;
+        text-align: center;
+    }
+
+    .intro-title h5 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 40px;
+        text-align: center;
+        color: #30233D;
+        padding-left: 202px;
+        padding-right: 202px;
+    }
+
+    .services-title h6 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 15px;
+        line-height: 29px;
+        text-align: center;
+        color: #30233D;
+        padding: 0 290px;
+        margin-top: 0;
+    }
+
+    .services-title h3 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 40px;
+        line-height: 67px;
+        text-align: center;
+        color: #30233D;
+        margin-bottom: 0;
+        margin-top: 0;
+    }
+
+    .intro-content ul {
+        display: flex;
+        margin-bottom: 75px;
+    }
+
+    .services-content ul li {
+        width: 27.5%;
+        margin-right: 50px;
+        list-style-type: none;
+        margin-bottom: 56px;
+    }
+
+    .li-1 h6 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 17px;
+    }
+
+    .li-1 p {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 26px;
+        color: #776C82;
+    }
+
+    .li-2 h6 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 17px;
+    }
+
+    .li-2 p {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px
+    }
+
+    .li-3 h6 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 17px;
+    }
+
+    .li-3 p {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+    }
+
+    .li-4 h6 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 17px;
+    }
+
+    .li-4 p {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+    }
+
+    .li-5 h6 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 17px;
+    }
+
+    .li-5 p {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+    }
+
+    .li-6 h6 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 17px;
+    }
+
+    .li-6 p {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+    }
+
+    .section-title h3 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 40px;
+        line-height: 67px;
+        text-align: center;
+        color: #30233D;
+        margin-bottom: 0;
+    }
+
+    .section-title h6 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 15px;
+        line-height: 29px;
+        text-align: center;
+        padding: 0 315px;
+        color: #30233D;
+        margin-top: 0;
+    }
+
+    .project_1 img {
+        width: 550px;
+        height: 450px;
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+    .project_1 .project-title h5 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 25px;
+        line-height: 40px;
+        color: #30233D;
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+
+    .project_1 .project-title h6 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 15px;
+        line-height: 37px;
+        letter-spacing: 4px;
+        text-transform: uppercase;
+        color: #F61067;
+        margin-bottom: 0;
+    }
+
+    .project_1 .project-title {
+        margin-left: 5px;
+    }
+
+    .project_2 img {
+        width: 550px;
+        height: 450px;
+        margin-left: 0;
+    }
+
+    .project_1 .project-title {
+        margin-left: 5px;
+        padding: 0 34px;
+    }
+
+    .project_2 .project-title {
+        margin-right: 5px;
+        padding: 0 34px;
+        margin-left: 0;
+    }
+
+    .project_3 img {
+        width: 550px;
+        height: 450px;
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+    .project_2 .project-title h6 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 15px;
+        line-height: 37px;
+        letter-spacing: 4px;
+        text-transform: uppercase;
+        color: #F61067;
+        margin-bottom: 0;
+    }
+
+    .project_2 .project-title h5 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 25px;
+        line-height: 40px;
+        color: #30233D;
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+
+    .project_3 .project-title h6 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 15px;
+        line-height: 37px;
+        letter-spacing: 4px;
+        text-transform: uppercase;
+        color: #F61067;
+    }
+
+    .project_3 .project-title h5 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 25px;
+        line-height: 40px;
+        color: #30233D;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .project_3 .project-title {
+        margin-left: 10px;
+        padding: 0 34px;
+    }
+
+    .img .position {
+        position: absolute;
+        top: 65%;
+        left: 45%;
+    }
+
+    .newsletter-title h3{
+        font-size: 40px;
+    }
+
+    .lopper {
+        margin-left: 40px;
+        width: 166px;
+        margin-right: 0;
+        padding-top: 126px;
+    }
+
+    .Menu {
+        width: 62px;
+        margin-right: 35px;
+        padding-top: 100px;
+        margin-left: 35px;
+    }
+
+    .Contact {
+        width: 300px;
+        margin-left: 40px;
+        padding-top: 100px;
+        margin-right: 10px;
+    }
+
+    .Follow {
+        padding-top: 100px;
+        margin-left: 0;
+    }
+
+    .mobile-menu {
+        display: flex;
+        margin-right: 50px;
+        margin-left: auto;
+    }
+
+    .menu-active{
+        z-index: 9;
+    }
+
+    .show{
+        position: fixed;
+        margin: 0;
+        top: 0;
+        width: 60%;
+        height: 100%;
+        z-index: 9;
+        display: flex;
+        justify-content: center;
+        right: 0;
+        background: #5E239D;
+    }
+
+    .menu-active span:before {
+        width: 34px;
+        transform: rotate(50deg);
+    }
+
+    .menu-active span:after {
+        transform: rotate(-50deg);
+        width: 34px;
+        top: -6px;
+    }
+
+    .menu-active span{
+        background: transparent;
+    }
+
+    .show ul {
+        display: block;
+    }
+
+    .show ul {
+        display: block;
+        margin-top: 151px;
+    }
+
+    .show ul li {
+        list-style-type: none;
+        margin-right: 54px;
+        margin-bottom: 35px;
+    }
+
+    .show ul li a {
+        color: white;
+        transition: 0.5s;
+    }
+
+    .show ul li a:hover {
+        color: black;
+    }
+
+    .show ul .vector img{
+        background: white;
+    }
+
+    .show ul .vector{
+        margin-left: 0;
+    }
+}
+@media (max-width: 992px) {
+    nav{
+        display: none;
+    }
+    
+    .logo{
+        margin-left: 85px;
+    }
+
+    .img .slider-img {
+        width: 395px;
+        height: 395px;
+    }
+
+    .img .position {
+        position: absolute;
+        top: 60%;
+    }
+
+    .project_2 .project-title {
+        margin-left: 81px;
+    }
+
+    .project_3 img {
+        width: 565px;
+        height: 450px;
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+    .project_2 img {
+        width: 565px;
+        height: 450px;
+        margin-left: -85px;
+    }
+
+    .project_1 img {
+        width: 565px;
+        height: 450px;
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+    .Follow {
+        padding-top: 100px;
+        margin-left: 0;
+    }
+
+    .Contact {
+        width: 280px;
+        margin-left: -19px;
+        padding-top: 100px;
+    }
+
+    .lopper {
+        margin-left: 42px;
+        width: 166px;
+        margin-right: 68px;
+        padding-top: 126px;
+    }
+
+    .Services {
+        width: 110px;
+        padding-top: 100px;
+        margin-right: 52px;
+    }
+
+    .header-title h2 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 40px;
+        line-height: 80px;
+        color: #F61067;
+        margin-top: 70px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .header-title h4 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 15px;
+        line-height: 37px;
+        letter-spacing: 4px;
+        text-transform: uppercase;
+        color: #F4F4ED;
+        text-align: center;
+    }
+
+    .project_3 .project-title {
+        margin-right: 81px;
+    }
+
+    .project_1 .project-title {
+        margin-right: 81px;
+    }
+
+    .img .position_2 {
+        position: absolute;
+        top: 66%;
+        left: 45%;
+    }
+
+    .services-content ul li {
+        width: 27.5%;
+        margin-right: 50px;
+        list-style-type: none;
+        margin-bottom: 56px;
+    }
+}
+
+@media (max-width: 768px) {
+    .intro-title h5{
+        font-size: 21px;
+    }
+
+    .services-title h3{
+        font-size: 35px;
+    }
+
+    .services-title h6{
+        font-size: 15px;
+        padding: 0 200px;
+    }
+
+    .section-title h3 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 35px;
+        line-height: 67px;
+        text-align: center;
+        color: #30233D;
+    }
+
+    .section-title h6 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 15px;
+        line-height: 29px;
+        text-align: center;
+        padding: 0 200px;
+        color: #30233D;
+    }
+
+    .project_1 {
+        margin-bottom: 108px;
+        display: block;
+    }
+
+    .project_1 .project-title {
+        margin-right: 0;
+    }
+
+    .project_2 {
+        display: none;
+        margin-bottom: 108px;
+    }
+
+    .project_2 .project-title {
+        margin-left: 0;
+    }
+
+    .project_2 img {
+        width: 565px;
+        height: 450px;
+        margin-left: 0;
+    }
+
+    .project_1 .project-title h6 {
+        margin-bottom: 0;
+        font-size: 10px;
+    }
+
+    .project_1 .project-title h5 {
+        font-size: 20px;
+        margin-bottom: 0;
+        margin-top: 0;
+    }
+
+    .project_1 .project-title p {
+        margin-top: 0;
+        font-size: 15px;
+    }
+
+    .project_2 .project-title h6 {
+        font-size: 10px;
+        margin-bottom: 0;
+    }
+
+    .project_2 .project-title h5 {
+        margin-bottom: 0;
+        margin-top: 0;
+        font-size: 20px;
+    }
+
+    .intro-content ul {
+        display: flex;
+        margin-left: 0;
+    }
+
+    .project_3 {
+        display: block;
+    }
+
+    .project_3 .project-title h6 {
+        font-size: 10px;
+        margin-bottom: 0;
+    }
+
+    .project_3 .project-title h5 {
+        margin-bottom: 0;
+        margin-top: 0;
+        font-size: 20px;
+    }
+
+    .project_3 .project-title p {
+        margin-top: 0;
+        font-size: 15px;
+    }
+
+    .img .slider-img{
+        width: 335px;
+        height: 335px;
+    }
+
+    .img .position {
+        position: absolute;
+        top: 58%;
+        width: 60px;
+    }
+
+    .img .position_2{
+        width: 60px;
+        top: 65%;
+        left: 45%;
+    }
+
+    .slide-h3{
+        font-size: 20px;
+        padding: 0 176px;
+    }
+
+    .slide-p{
+        font-size: 12px;
+    }
+
+    .slide-p span{
+        font-size: 12px;
+    }
+
+    .newsletter-title h3{
+        font-size: 35px;
+    }
+
+    .newsletter-title h6{
+        font-size: 15px;
+    }
+
+    .newsletter-content input{
+        font-size: 10px;
+    }
+
+    .newsletter-content button{
+        font-size: 10px;
+    }
+
+    .row{
+        flex-wrap: wrap;
+    }
+
+    .Services {
+        width: 110px;
+        padding-top: 100px;
+        margin-right: 52px;
+        margin-left: 100px;
+    }
+
+    .Contact {
+        width: 280px;
+        margin-left: 110px;
+        padding-top: 100px;
+    }
+
+    .services-content ul li {
+        width: 27.5%;
+        margin-right: 37px;
+        list-style-type: none;
+        margin-bottom: 56px;
+    }
+
+    .li-1 p{
+        font-size: 12px;
+    }
+
+    .li-2 p{
+        font-size: 12px;
+    }
+
+    .li-3 p{
+        font-size: 12px;
+    }
+
+    .li-4 p{
+        font-size: 12px;
+    }
+
+    .li-5 p{
+        font-size: 12px;
+    }
+
+    .li-6 p{
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 576px) {
+    .header-title h2 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 35px;
+    }
+
+    .header-title h4 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 12px;
+    }
+
+    .intro-title h6 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 11.6px;
+    }
+
+    .intro-title h5 {
+        font-size: 13px;
+        padding: 0 61px;
+    }
+
+    .content_1 h1 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 900;
+        font-size: 80px;
+    }
+
+    .content_1 h5 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 11.6px;
+    }
+
+    .intro-content {
+        margin-top: 65px;
+    }
+
+    .intro-content ul {
+        display: block;
+        margin-left: 0;
+        padding-left: 0;
+        margin-bottom: 80px;
+    }
+
+    .content_2 h1 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 900;
+        font-size: 80px;
+    }
+
+    .content_2 h5 {
+        margin-right: 79px;
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 11.6px
+    }
+
+    .content_3 h1 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 900;
+        font-size: 80px;
+    }
+
+    .content_3 h5 {
+        margin-right: 79px;
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 11.6px;
+    }
+
+    .services-title h5 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 11.6px;
+        margin-bottom: 0;
+    }
+
+    .services-title h3 {
+        font-size: 30px;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    .services-title h6 {
+        font-size: 15px;
+        padding: 0 80px;
+        margin-top: 0;
+    }
+
+    .services-content ul {
+        display: block;
+        padding-left: 23px;
+    }
+
+    .services-content ul li {
+        width: 100%;
+        margin-right: 0;
+        list-style-type: none;
+        margin-bottom: 35px;
+        padding-right: 126px;
+    }
+
+    .li-1 h6 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 17px;
+        line-height: 27px;
+        color: #00F0B5;
+        margin-bottom: 0;
+        margin-top: 0;
+    }
+
+    .li-1 p {
+        font-size: 12px;
+        margin-top: 0;
+    }
+
+    .li-2 h6 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 17px;
+        line-height: 27px;
+        color: #F61067;
+        margin-bottom: 0;
+        margin-top: 0;
+    }
+
+    .li-2 p{
+        font-size: 12px;
+        margin-top: 0;
+    }
+
+    .li-3 h6 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 17px;
+        line-height: 27px;
+        color: #F67110;
+        margin-bottom: 0;
+        margin-top: 0;
+    }
+
+    .li-3 p {
+        font-size: 12px;
+        margin-top: 0;
+    }
+
+    .li-4 h6 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 17px;
+        line-height: 27px;
+        color: #F67110;
+        margin-bottom: 0;
+        margin-top: 0;
+    }
+
+    .li-4 p{
+        font-size: 12px;
+        margin-top: 0;
+    }
+
+    .li-5 h6 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 17px;
+        line-height: 27px;
+        color: #00F0B5;
+        margin-bottom: 0;
+        margin-top: 0;
+    }
+
+    .li-5 p {
+        font-size: 12px;
+        margin-top: 0;
+    }
+
+    .li-6 h6 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 17px;
+        line-height: 27px;
+        color: #F61067;
+        margin-bottom: 0;
+        margin-top: 0;
+    }
+
+    .li-6 p {
+        font-size: 12px;
+        margin-top: 0;
+    }
+
+    .section-title h5 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 11.6px;
+        margin-bottom: 0;
+    }
+
+    .section-title h3 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 30px;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    .section-title h6 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 15px;
+        line-height: 29px;
+        text-align: center;
+        padding: 0 70px;
+        color: #30233D;
+        margin-top: 0;
+    }
+
+    .section-title {
+        margin-bottom: 50px;
+    }
+
+    .project_1 .project-title h6 {
+        display: none;
+        margin-bottom: 0;
+        font-size: 10px;
+    }
+
+    .project_1 .project-title h5 {
+        font-size: 17px;
+        margin-bottom: 0;
+        margin-top: 0;
+    }
+
+    .project_1 .project-title p {
+        margin-top: 0;
+        font-size: 12px;
+    }
+
+    .project_1 .project-title {
+        margin-right: 81px;
+    }
+
+    .project_3 .project-title h6 {
+        display: none;
+        font-size: 10px;
+        margin-bottom: 0;
+    }
+
+    .project_3 .project-title h5 {
+        margin-bottom: 0;
+        margin-top: 0;
+        font-size: 15px;
+    }
+
+    .project_3 .project-title p {
+        margin-top: 0;
+        font-size: 12px;
+    }
+
+    .img .position{
+        position: absolute;
+        width: 60px;
+        top: 50%;
+    }
+
+    .img .position_2{
+        width: 60px;
+        left: 45%;
+        top: 68%;
+    }
+
+    .img .slider-img{
+        width: 330px;
+        height: 330px;
+    }
+
+    .newsletter-title h3{
+        font-size: 30px;
+    }
+
+    .lopper{
+        margin-right: 0;
+    }
+
+    .Menu {
+        width: 62px;
+        margin-right: 0;
+        margin-left: 40px;
+        padding-top: 100px;
+    }
+
+    .Services {
+        width: 110px;
+        padding-top: 100px;
+        margin-right: 0;
+    }
+
+    .Contact{
+        width: 175px;
+        margin-left: 40px;
+        padding-top: 100px;
+        margin-right: 52px;
+    }
+
+}
+
+@media (max-width: 375px) {
+    .logo a {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 900;
+        font-size: 24px;
+        line-height: 43px;
+        letter-spacing: 2px;
+        color: #30124E;
+        text-decoration: none;
+        margin-left: 0;
+    }
+
+    .content_1 h1 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 900;
+        font-size: 60px;
+    }
+
+    .content_1 h5 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 10px;
+    }
+
+    .content_2 {
+        margin-left: 0;
+    }
+
+    .content_2 h1 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 900;
+        font-size: 60px;
+    }
+
+    .content_2 h5 {
+        margin-right: 79px;
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 10px;
+    }
+
+    .content_3 h1 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 900;
+        font-size: 60px;
+    }
+
+    .content_3 h5 {
+        margin-right: 79px;
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 10px;
+    }
+
+    .services-title h6 {
+        font-size: 12px;
+        padding: 0 80px;
+        margin-top: 0;
+    }
+
+    .section-title h6 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 12px;
+        line-height: 29px;
+        text-align: center;
+        padding: 0 70px;
+        color: #30233D;
+        margin-top: 0;
+    }
+
+    .project_1 img {
+        width: 310px;
+        height: 310px;
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+    .project_3 img {
+        width: 310px;
+        height: 310px;
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+    .img .slider-img{
+        width: 150px;
+        height: 150px;
+    }
+
+    .slide-h3{
+        font-size: 10px;
+        padding: 0 70px;
+    }
+
+    .img .position{
+        width: 42px;
+        top: 46%;
+    }
+
+    .img .position_2{
+        width: 42px;
+        top: 55%;
+        left: 45%;
+    }
+
+    .owl-carousel .owl-nav button.owl-next{
+        display: none;
+    }
+    .owl-carousel .owl-nav button.owl-prev{
+        display: none;
+    }
+
+    .slide-p{
+        font-size: 8px;
+    }
+
+    .slide-p span{
+        font-size: 8px;
+    }
+
+    .newsletter-title h3{
+        font-size: 20px;
+    }
+
+    .newsletter-title h6{
+        font-size: 12px;
+    }
+
+    #slider{
+        margin-bottom: 0;
+    }
+
+    #section{
+        margin-bottom: 100px;
+    }
+
+    .newsletter-content input {
+        font-size: 7px;
+        padding-right: 30px;
+    }
+
+    .newsletter-content button {
+        font-size: 7px;
+    }
+
+    .section-title h5 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 10px;
+        margin-bottom: 0;
+    }
+
+    .services-title h5 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 10px;
+        margin-bottom: 0;
+    }
+
+    .intro-title h6 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 10px;
+    }
+
+    .li-1 h6 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 15px;
+    }
+
+    .li-1 p {
+        font-size: 10px;
+    }
+
+    .li-2 h6 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 15px;
+    }
+
+    .li-2 p {
+        font-size: 10px;
+    }
+
+    .li-3 h6 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 15px;
+    }
+
+    .li-3 p {
+        font-size: 10px;
+    }
+
+    .li-4 h6 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 15px;
+    }
+
+    .li-4 p {
+        font-size: 10px;
+    }
+
+    .li-5 h6 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 15px;
+    }
+
+    .li-5 p {
+        font-size: 10px;
+    }
+
+    .li-6 h6 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 15px;
+    }
+
+    .li-6 p {
+        font-size: 10px;
+    }
+
+    .Services {
+        width: 110px;
+        padding-top: 100px;
+        margin-right: 0;
+        margin-left: 27px;
+    }
+
+    .Contact {
+        width: 175px;
+        margin-left: 40px;
+        padding-top: 100px;
+        margin-right: 0;
+    }
+
+    .Follow {
+        margin-left: 63px;
+        margin-bottom: 100px;
+    }
+
+}
+
+@media (max-width: 360px) {
+    .logo {
+    	margin-left: 0;
+    	margin-right: 0;
+    }
+
+    .logo a {
+    	font-family: 'M PLUS 1p', sans-serif;
+    	font-style: normal;
+    	font-weight: 900;
+    	font-size: 20px;
+    }
+
+    .header-title h2 {
+    	font-family: 'M PLUS 1p', sans-serif;
+    	font-style: normal;
+    	font-weight: 500;
+    	font-size: 30px;
+    }
+
+    .header-title h4 {
+    	font-family: 'M PLUS 1p', sans-serif;
+    	font-style: normal;
+    	font-weight: 800;
+    	font-size: 10px;
+    }
+
+    .intro-title h5 {
+    	font-family: 'M PLUS 1p', sans-serif;
+    	font-style: normal;
+    	font-weight: 500;
+    	font-size: 15px;
+    	line-height: 40px;
+    	text-align: center;
+    	color: #30233D;
+    	padding-left: 0;
+    	padding-right: 0;
+    }
+
+    .intro-title h6 {
+    	font-family: 'M PLUS 1p', sans-serif;
+    	font-style: normal;
+    	font-weight: 800;
+    	font-size: 10px;
+    }
+  
+    .content_1 h1 {
+    	font-family: 'M PLUS 1p', sans-serif;
+    	font-style: normal;
+    	font-weight: 900;
+    	font-size: 70px;
+    }
+  
+    .content_1 h5 {
+    	font-family: 'M PLUS 1p', sans-serif;
+    	font-style: normal;
+    	font-weight: 800;
+    	font-size: 8px;
+    }
+
+    .content_2 h1 {
+    	font-family: 'M PLUS 1p', sans-serif;
+    	font-style: normal;
+    	font-weight: 900;
+    	font-size: 70px;
+    }
+
+    .content_2 h5 {
+    	margin-right: 75px;
+    	font-family: 'M PLUS 1p', sans-serif;
+    	font-style: normal;
+    	font-weight: 800;
+    	font-size: 8px;
+    	line-height: 26px;
+    	text-align: center;
+    	letter-spacing: 6px;
+    	text-transform: uppercase;
+    	color: #30233D;
+    	margin-left: 45px;
+    }
+
+    #intro {
+    	background: url(../img/Map.png);
+    	margin-top: 108px;
+        margin-bottom: 80px;
+    }
+
+    .intro-content ul {
+    	display: block;
+    	margin-left: 0;
+    }
+
+    .content_3 h1 {
+    	font-family: 'M PLUS 1p', sans-serif;
+    	font-style: normal;
+    	font-weight: 900;
+    	font-size: 70px;
+    }
+
+    .content_3 h5 {
+    	margin-right: 75px;
+    	font-family: 'M PLUS 1p', sans-serif;
+    	font-style: normal;
+    	font-weight: 800;
+    	font-size: 8px;
+    	line-height: 26px;
+    	text-align: center;
+    	letter-spacing: 6px;
+    	text-transform: uppercase;
+    	color: #30233D;
+    	margin-left: 85px;
+    }
+
+    .services-title h5 {
+    	font-family: 'M PLUS 1p', sans-serif;
+    	font-style: normal;
+    	font-weight: 800;
+    	font-size: 10px;
+    }
+
+    .services-title h3 {
+    	font-size: 25px;
+    }
+
+    .services-title h6 {
+    	font-size: 11px;
+    	padding: 0;
+    }
+
+    .services-content ul {
+    	display: block;
+        padding-left: 25px;
+    }
+
+    .services-content ul li {
+    	width: 100%;
+    	margin-right: 0;
+    	list-style-type: none;
+    	margin-bottom: 56px;
+    }
+
+    .li-1 h6 {
+    	font-family: 'M PLUS 1p', sans-serif;
+    	font-style: normal;
+    	font-weight: 500;
+    	font-size: 15px;
+    	line-height: 27px;
+    	color: #00F0B5;
+    	margin-bottom: 5px;
+    	margin-top: 5px;
+    }
+
+    .li-2 h6 {
+    	font-family: 'M PLUS 1p', sans-serif;
+    	font-style: normal;
+    	font-weight: 500;
+    	font-size: 15px;
+    	line-height: 27px;
+    	color: #F61067;
+    	margin-bottom: 5px;
+    	margin-top: 5px;
+    }
+
+    .li-3 h6 {
+    	font-family: 'M PLUS 1p', sans-serif;
+    	font-style: normal;
+    	font-weight: 500;
+    	font-size: 15px;
+    	line-height: 27px;
+    	color: #F67110;
+    	margin-bottom: 5px;
+    	margin-top: 5px;
+    }
+
+    .li-4 h6 {
+    	font-family: 'M PLUS 1p', sans-serif;
+    	font-style: normal;
+    	font-weight: 500;
+    	font-size: 15px;
+    	line-height: 27px;
+    	color: #F67110;
+    	margin-bottom: 5px;
+    	margin-top: 5px;
+    }
+
+    .li-5 h6 {
+    	font-family: 'M PLUS 1p', sans-serif;
+    	font-style: normal;
+    	font-weight: 500;
+    	font-size: 15px;
+    	line-height: 27px;
+    	color: #00F0B5;
+    	margin-bottom: 5px;
+    	margin-top: 5px;
+    }
+
+    .li-6 h6 {
+    	font-family: 'M PLUS 1p', sans-serif;
+    	font-style: normal;
+    	font-weight: 500;
+    	font-size: 15px;
+    	line-height: 27px;
+    	color: #F61067;
+    	margin-bottom: 5px;
+    	margin-top: 5px;
+    }
+
+    .section-title h5 {
+    	font-family: 'M PLUS 1p', sans-serif;
+    	font-style: normal;
+    	font-weight: 800;
+    	font-size: 10px;
+    }
+
+    .section-title h3 {
+    	font-family: 'M PLUS 1p', sans-serif;
+    	font-style: normal;
+    	font-weight: 500;
+    	font-size: 25px;
+    }
+
+    .section-title h6 {
+    	font-family: 'M PLUS 1p', sans-serif;
+    	font-style: normal;
+    	font-weight: 800;
+    	font-size: 11px;
+    	line-height: 29px;
+    	text-align: center;
+    	padding: 0;
+    	color: #30233D;
+    }
+
+    .project_1 .project-title h6 {
+    	margin-bottom: 0;
+    	font-size: 10px;
+    	display: none;
+    }
+
+    .section-title {
+    	margin-bottom: 80px;
+    }
+
+    .project_1 .project-title h5 {
+    	font-size: 15px;
+    	margin-bottom: 0;
+    	margin-top: 0;
+    }
+
+    .project_1 .project-title p {
+    	margin-top: 0;
+    	font-size: 12px;
+    }
+
+    .project_1 img {
+    	width: 287px;
+    	height: 287px;
+    	margin-right: 0;
+    	margin-left: 0;
+    }
+
+    .project_1 {
+    	margin-bottom: 55px;
+    	display: block;
+    }
+
+    .project_3 .project-title h6 {
+    	font-size: 10px;
+    	margin-bottom: 0;
+    	display: none;
+    }
+
+    .project_3 .project-title {
+    	margin-right: 0;
+    }
+
+    .project_3 .project-title h5 {
+    	margin-bottom: 0;
+    	margin-top: 0;
+    	font-size: 15px;
+    }
+
+    .project_3 .project-title p {
+    	margin-top: 0;
+    	font-size: 12px;
+    } 
+  
+    .project_3 img {
+    	width: 287px;
+    	height: 287px;
+    	margin-right: 0;
+    	margin-left: 0;
+    }
+  
+    .slide-h3 {
+    	font-size: 12px;
+    	padding: 0;
+    }
+
+    .img .slider-img {
+    	width: 138px;
+    	height: 138px;
+    }
+
+    #section {
+    	margin-bottom: 50px
+    }
+
+    .img .position {
+    	position: absolute;
+    	top: 57%;
+    	width: 37px;
+    }
+
+    .img .position_2 {
+    	width: 37px;
+    	top: 61%;
+    	left: 45%;
+    }
+
+    .slide-h3 {
+    	font-size: 12px;
+    	padding: 0 50px;
+        line-height: 18px;
+    }
+
+    .slide-p {
+    	font-size: 10px;
+    }
+
+    .slide-p span {
+    	font-size: 10px;
+    }
+
+    .newsletter-title h3 {
+    	font-size: 25px;
+    	margin-bottom: 0;
+    }
+ 
+    .newsletter-title h6 {
+    	font-size: 12px;
+    	margin-top: 0;
+    }
+
+    .newsletter-content input {
+    	font-size: 8px;
+    	margin-left: 0;
+    }
+
+    .newsletter-content button {
+    	font-size: 8px;
+    	margin-left: -65px;
+    }
+
+    .newsletter-content span {
+    	border-radius: 100%;
+    	border: 2px solid #F61067;
+    	padding: 8px 12px;
+    	display: none;
+    }
+ 
+    .owl-dots, .owl-theme .owl-nav {
+    	text-align: center;
+    	-webkit-tap-highlight-color: transparent;
+    	display: none;
+    }
+   
+    .lopper {
+    	margin-left: 49px;
+    	width: 100px;
+    	margin-right: 0;
+    	padding-top: 126px;
+    }
+
+    .lopper p {
+    	font-family: 'M PLUS 1p', sans-serif;
+    	font-style: normal;
+    	font-weight: normal;
+    	font-size: 12px;
+    }
+
+    .Menu {
+    	width: 62px;
+    	margin-right: 0;
+    	padding-top: 100px;
+    	margin-left: 77px;
+    }
+
+    .Contact {
+    	width: 170px;
+    	margin-left: 13px;
+    	padding-top: 100px;
+    }
+
+    .Services {
+    	width: 110px;
+    	padding-top: 100px;
+    	margin-right: 21px;
+    	margin-left: 21px;
+    }
+
+    .Follow {
+    	padding-top: 100px;
+    	margin-left: 41px;
+    }
+
+    .Menu ul li {
+    	font-family: 'M PLUS 1p', sans-serif;
+    	font-style: normal;
+    	font-weight: bold;
+    	font-size: 10px;
+    }
+
+    .Services ul li {
+    	font-family: 'M PLUS 1p', sans-serif;
+    	font-style: normal;
+    	font-weight: bold;
+    	font-size: 10px;
+    }
+
+    .Menu h3 {
+    	font-family: 'M PLUS 1p', sans-serif;
+    	font-style: normal;
+    	font-weight: 800;
+    	font-size: 10.6px;
+    }
+
+    .Services h3 {
+    	font-family: 'M PLUS 1p', sans-serif;
+    	font-style: normal;
+    	font-weight: 800;
+    	font-size: 10.6px;
+    }
+
+    .Contact h3 {
+    	font-family: 'M PLUS 1p', sans-serif;
+    	font-style: normal;
+    	font-weight: 800;
+    	font-size: 10.6px;
+    }
+
+    .Contact ul li span {
+    	font-family: 'M PLUS 1p', sans-serif;
+    	font-style: normal;
+    	font-weight: normal;
+    	font-size: 12.2px;
+    	line-height: 26px;
+    	color: #FCFCFC;
+    	mix-blend-mode: normal;
+    	margin-left: 7px;
+    }
+
+    .Contact ul li .span {
+    	font-family: 'M PLUS 1p', sans-serif;
+    	font-style: normal;
+    	font-weight: normal;
+    	font-size: 12.2px;
+    }
+   
+    .Follow h3 {
+    	font-family: 'M PLUS 1p', sans-serif;
+    	font-style: normal;
+    	font-weight: 800;
+    	font-size: 10.6px;
+    }
+
+    .Contact {
+        width: 170px;
+        margin-left: 13px;
+        margin-right: 0;
+        padding-top: 100px;
+    }
+}
+
+@media (max-width: 320px){
+    .logo a {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 900;
+        font-size: 15px;
+        margin-left: 34px;
+    }
+
+
+    .header-title h2 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 25px;
+        margin-bottom: 0;
+    }
+
+    .header-title h4 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 8px;
+        margin-top: 0;
+    }
+
+    .intro-title h6 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 8px;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    .intro-title h5 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 9px;
+        line-height: 40px;
+        text-align: center;
+        color: #30233D;
+    }
+
+    .content_1 h1 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 900;
+        font-size: 50px;
+        margin-bottom: 0;
+        margin-top: 0;
+    }
+
+    .content_1 h5 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 7px;
+        margin-top: 0;
+    }
+
+    .content_2 {
+        margin-left: 0;
+    }
+
+    .content_2 h1 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 900;
+        font-size: 50px;
+        margin-bottom: 0;
+    }
+
+    .content_2 h5 {
+        margin-right: 75px;
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 7px;
+        line-height: 26px;
+        text-align: center;
+        letter-spacing: 6px;
+        text-transform: uppercase;
+        color: #30233D;
+        margin-left: 70px;
+        margin-top: 0;
+    }
+
+    .content_3 h1 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 900;
+        font-size: 50px;
+        margin-bottom: 0;
+    }
+
+    .content_3 h5 {
+        margin-right: 75px;
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 7px;
+        line-height: 26px;
+        text-align: center;
+        letter-spacing: 6px;
+        text-transform: uppercase;
+        color: #30233D;
+        margin-left: 65px;
+        margin-top: 0;
+    }
+
+    .services-title h5 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 8px;
+    }
+
+    .services-title h3 {
+        font-size: 20px;
+    }
+
+    .services-title h6 {
+        font-size: 9px;
+        padding: 0 10px;
+    }
+
+    .services-content ul li {
+        width: 100%;
+        margin-right: 0;
+        list-style-type: none;
+        margin-bottom: 56px;
+        padding-right: 25px;
+    }
+
+    .li-1 h6 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 27px;
+        color: #00F0B5;
+        margin-bottom: 0;
+        margin-top: 0;
+    }
+
+    .li-1 p {
+        font-size: 10px;
+        margin-top: 0;
+    }
+
+    .li-2 h6 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 27px;
+        color: #F61067;
+        margin-bottom: 0;
+        margin-top: 0;
+    }
+
+    .li-2 p {
+        font-size: 10px;
+        margin-top: 0;
+    }
+
+    .li-3 h6 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 27px;
+        color: #F67110;
+        margin-bottom: 0;
+        margin-top: 0;
+    }
+
+    .li-3 p {
+        font-size: 10px;
+        margin-top: 0
+    }
+
+    .li-4 h6 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 27px;
+        color: #F67110;
+        margin-bottom: 0;
+        margin-top: 0;
+    }
+
+    .li-4 p {
+        font-size: 10px;
+        margin-top: 0;
+    }
+
+    .li-5 h6 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 27px;
+        color: #00F0B5;
+        margin-bottom: 0;
+        margin-top: 0;
+    }
+
+    .li-5 p {
+        font-size: 10px;
+        margin-top: 0;
+    }
+
+    .li-6 h6 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 27px;
+        color: #F61067;
+        margin-bottom: 0;
+        margin-top: 0;
+    }
+
+    .li-6 p {
+        font-size: 10px;
+        margin-top: 0;
+    }
+
+    .section-title h5 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 8px;
+    }
+
+    .section-title h3 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+    }
+
+    .section-title h6 {
+        font-family: 'M PLUS 1p', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 9px;
+        line-height: 29px;
+        text-align: center;
+        padding: 0 25px;
+        color: #30233D;
+    }
+
+    .section-title {
+        margin-bottom: 45px;
+    }
+
+    .project_1 .project-title h5 {
+        font-size: 11px;
+        margin-bottom: 0;
+        margin-top: 0;
+    }
+
+    .project_1 .project-title p {
+        margin-top: 0;
+        font-size: 9px;
+    }
+
+    .project_1 .project-title {
+        margin-right: 50px;
+    }
+
+    .project_1 img {
+        width: 100%;
+        height: 287px;
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+    .project_3 .project-title {
+        margin-right: 50px;
+    }
+
+    .project_3 .project-title h5 {
+        margin-bottom: 0;
+        margin-top: 0;
+        font-size: 11px;
+    }
+
+    .project_3 .project-title p {
+        margin-top: 0;
+        font-size: 9px;
+    }
+
+    .project_3 img {
+        width: 100%;
+        height: 287px;
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+    .img .position{
+        top: 55%;
+        width: 37px;
+    }
+
+    .img .position_2{
+        top: 62%;
+        left: 42%;
+    }
+
+    #newsletter{
+        margin-top: -65px;
+    }
+
+    .newsletter-title h3{
+        font-size: 20px;
+    }
+
+    .newsletter-content input{
+        font-size: 7px;
+        margin-left: 0;
+        padding-right: 38px;
+    }
+
+    .newsletter-content button{
+        font-size: 7px;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .lopper {
+        width: 100px;
+        margin-right: 0;
+        margin-left: 100px;
+        padding-top: 126px;
+    }
+
+    .Menu {
+        width: 62px;
+        margin-right: 0;
+        padding-top: 40px;
+        margin-left: 106px;
+    }
+
+    .Services {
+        width: 110px;
+        padding-top: 40px;
+        margin-right: 0;
+        margin-left: 83px;
+    }
+
+    .Contact {
+        width: 170px;
+        margin-left: 83px;
+        padding-top: 40px;
+    }
+
+    .Follow {
+        padding-top: 40px;
+        margin-left: 30px;
+    }
+}
+
