@@ -19,15 +19,15 @@ $('.burger-menu_button').on('click', function () {
     $('.burger-menu_nav').toggleClass('show')
 });
 
-$('.burger-menu_nav').on('click', function () {
-    $('.burger-menu_nav').toggleClass('show');
-    $('.burger-menu_button').toggleClass('burger-menu_active')
+$('.burger-menu_nav, .burger-menu__link').on('click', function () {
+    $('.burger-menu_nav').removeClass('show');
+    $('.burger-menu_button').removeClass('burger-menu_active')
 });
 
-$('.burger-menu__link').on('click', function () {
-    $('.burger-menu_nav').toggleClass('show');
-    $('.burger-menu_button').toggleClass('burger-menu_active')
-});
+// $('.burger-menu__link').on('click', function () {
+//     $('.burger-menu_nav').toggleClass('show');
+//     $('.burger-menu_button').toggleClass('burger-menu_active')
+// });
 
 
 
