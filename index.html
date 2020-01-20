@@ -11,11 +11,9 @@
     <link rel="stylesheet" href="./css/icomoon.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css">
-    <link rel="stylesheet" href="./css/animate.css">
     <link rel="stylesheet" href="./css/style.css">
     <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:300,400,500,700,800,900&display=swap&subset=cyrillic" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Noticia+Text:400,400i,700,700i&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="">
     <link rel="stylesheet" href="./css/medias.css">
     <title>Document</title>
     <script src="//code.jivosite.com/widget/Gs0MPC69Sl" async></script>
@@ -37,8 +35,18 @@
                 <li><a href="#">(01) 666 - 693 - 456</a></li>
             </ul>
         </nav>
-        <div class="mobile-menu">
-            <span></span>
+        <div class="burger-menu">
+            <div class="burger-menu_button">
+                <span class="burger-menu_lines">
+                </span>
+            </div>
+            <div class="burger-menu_nav">
+                <a class="burger-menu__link" href="#">Home</a>
+                <a class="burger-menu__link" href="#services">Services</a>
+                <a class="burger-menu__link" href="#section">Work</a>
+                <a class="burger-menu__link" href="#slider">About</a>
+                <a class="burger-menu__link" href="#footer">Contacts</a>
+            </div>
         </div>
     </div>
 </header>
@@ -55,6 +63,12 @@
             <h5>Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle.
             </h5>
         </div>
+        <a href="#" class="up-button">
+            <div class="up">
+                <span class="up-lines">
+                </span>
+            </div>
+        </a>
         <div class="intro-content">
             <ul>
                 <li class="content_1 wow fadeInLeft" data-wow-delay="0.5s" data-wow-duration="0.5s">
@@ -217,7 +231,7 @@
 </section>
 <footer id="footer">
     <div class="container">
-        <div class="row wow flash" data-wow-delay="1s" data-wow-duration="1.5s">
+        <div class="row wow fadeInUp" data-wow-delay="1s" data-wow-duration="1.5s">
             <div class="lopper">
                 <img src="./img/Logo.png" alt="">
                 <p>Eu augue ut lectus arcu bibendum at.</p>
@@ -225,12 +239,12 @@
             <div class="Menu">
                 <h3>Menu</h3>
                 <ul>
-                    <li>Home</li>
-                    <li>About</li>
-                    <li>Services</li>
-                    <li>News</li>
-                    <li>Gallery</li>
-                    <li>Contact</li>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#slider">About</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#">News</a></li>
+                    <li><a href="#section">Gallery</a></li>
+                    <li><a href="#footer">Contact</a></li>
                 </ul>
             </div>
             <div class="Services">
@@ -268,9 +282,9 @@
 </footer>
 
 
-
+<script src="./js/jquery.js"></script>
 <script src="./js/wow.min.js"></script>
-<script src="./js/jquery-3.4.1.js"></script>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
 <script src="./js/owl.carousel.min.js"></script>
 <script src="./js/script.js"></script>

@@ -8,6 +8,7 @@ body{
 header{
     margin-top: 61px;
     margin-bottom: 36px;
+    padding-left: 130px;
 }
 .container{
     max-width: 1180px;
@@ -83,72 +84,84 @@ nav ul li{
     transform: rotate(360deg);
     color: #7500be;
 }
-.mobile-menu{
-    display: none;
-    width: 40px;
-    height: 40px;
-}
-.mobile-menu span{
-    display: flex;
-    width: 100%;
-    height: 2px;
-    background: #30233D;
-    position: relative;
-}
-.mobile-menu span:before{
-    content: '';
-    position: absolute;
-    background: #30233D;
-    width: 100%;
-    height: 2px;
-    top: -6px;
-}
-.mobile-menu span:after{
-    content: '';
-    position: absolute;
-    background: #30233D;
-    width: 60%;
-    height: 2px;
-    top: 7px;
-}
-.menu{
-    margin-left: auto;
-    position: relative;
+.burger-menu{
     display: none;
 }
-.menu-line{
-    content: "";
+.burger-menu_button{
+    position: absolute;
+    top: 85px;
+    right: 10px;
+    z-index: 30;
+    width: 80px;
+    height: 80px;
+}
+.burger-menu_button:hover .burger-menu_lines{
+    filter: brightness(2.7);
+}
+.burger-menu_lines{
+    width: 50%;
+    right: 50%;
+}
+.burger-menu_lines, .burger-menu_lines:before{
     position: absolute;
     width: 27px;
     height: 2px;
-    background: #30233D;
-    left: 0;
-    right: 0;
-    margin: 0 auto;
-    bottom: -24px;
+    background-color: #30233D;
 }
-.menu-line:before{
-    content: "";
-    position: absolute;
-    width: 27px;
-    height: 2px;
-    background: #30233D;
-    left: 0;
+.burger-menu_lines:before{
+    content: '';
     top: -5px;
-    right: 0;
-    margin: 0 auto;
-    bottom: -5px;
 }
-.menu-line:after{
-    content: "";
+.burger-menu_lines:after{
+    content: '';
     position: absolute;
     width: 18px;
     height: 2px;
-    background: #30233D;
-    left: 0;
-    right: 9px;
-    margin: 0 auto;
-    bottom: -5px;
+    top: 5px;
+    right: 0;
+    background-color: #30233D;
+}
+.burger-menu_active .burger-menu_lines{
+    background: transparent;
+}
+.burger-menu_active .burger-menu_lines:before{
+    transform: rotate(45deg);
+    top: 0;
+    background-color: white;
+}
+.burger-menu_active .burger-menu_lines:after{
+    transform: rotate(-45deg);
+    width: 27px;
+    top: 0;
+    background-color: white;
+}
+.burger-menu_nav {
+    padding-bottom: 80px;
+    z-index: 20;
+    position: fixed;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    height: 100%;
+    background-color: #2a2a2a;
+    overflow-y: auto;
+    right: -100%;
+}
+.burger-menu_active .burger-menu_nav{
+    right: 0;
+}
+.burger-menu__link{
+    padding: 30px;
+    font-family: sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-weight: bold;
+    color: white;
+}
+.burger-menu__link:hover {
+    filter: brightness(0.5);
 }
 .vector{
     margin-left: 98px;
@@ -189,6 +202,7 @@ nav ul li{
     background: url("../img/Map.png");
     margin-top: 108px;
     transition: 2s;
+    margin-bottom: 125px;
 }
 .intro-title{
     text-align: center;
@@ -216,7 +230,7 @@ nav ul li{
     padding-right: 202px;
 }
 .intro-content{
-    margin-top: 100px;
+    margin-top: 40px;
 }
 .intro-content ul{
     display: flex;
@@ -575,7 +589,7 @@ nav ul li{
     margin-left: 128px;
 }
 .project_1 .project-title{
-
+    padding-top: 35px;
 }
 .project_1 .project-title h6{
     font-family: 'M PLUS 1p', sans-serif;
@@ -614,6 +628,7 @@ nav ul li{
 }
 .project_2 .project-title{
     margin-left: 128px;
+    padding-top: 35px;
 }
 .project_2 .project-title h6{
     font-family: 'M PLUS 1p', sans-serif;
@@ -651,7 +666,7 @@ nav ul li{
     margin-left: 128px;
 }
 .project_3 .project-title{
-
+    padding-top: 35px;
 }
 .project_3 .project-title h6{
     font-family: 'M PLUS 1p', sans-serif;
@@ -819,6 +834,10 @@ nav ul li{
     border: none;
     border-bottom: 3px solid #F4F4ED;
     margin-right: 10px;
+    transition: 0.5s;
+}
+.newsletter-content button:hover{
+    background-color: black;
 }
 .newsletter-content input{
     font-family: 'M PLUS 1p', sans-serif;
@@ -832,13 +851,13 @@ nav ul li{
     border: none;
     border-bottom: 3px solid #F4F4ED;
 }
-.newsletter-content span{
-    padding-top: 4px;
+.newsletter-content span img{
+    margin-top: 4px;
     transition: 0.6s;
 }
-.newsletter-content span:hover{
+.newsletter-content span img:hover{
     display: inline-block;
-    transform: rotate(360deg);
+    background-color: #2a2a2a;
 }
 
 /****************************newsletter******************************/
@@ -898,6 +917,9 @@ footer{
     margin-top: 28px;
 }
 .Menu ul li{
+    list-style-type: none;
+}
+.Menu ul li a{
     font-family: 'M PLUS 1p', sans-serif;
     font-style: normal;
     font-weight: bold;
@@ -905,7 +927,11 @@ footer{
     line-height: 28px;
     letter-spacing: 1px;
     color: #FCFCFC;
-    list-style-type: none;
+    text-decoration: none;
+    transition: 0.5s;
+}
+.Menu ul li a:hover{
+    color: #2a2a2a;
 }
 .Services{
     width: 110px;
@@ -1034,10 +1060,7 @@ footer{
     transition: 0.6s;
 }
 .Follow ul li i:hover{
-    background: #F61067;
     border-radius: 50%;
-    font-size: 20px;
-    box-shadow: 0 0 11px 5px #e0e0e0;
     display: inline-block;
     transform: rotate(360deg);
 }
@@ -1054,4 +1077,42 @@ footer{
     text-align: center;
 }
 
+/****************************footer******************************/
+
+
+/****************************footer******************************/
+.up{
+    background-color: #fff;
+    width: 30px;
+    height: 30px;
+    position: fixed;
+    bottom: 10px;
+    left: 20px;
+    box-shadow: 0 0 2px 2px #000;
+}
+.up-lines, .up-lines:before, .up-lines:after{
+    position: absolute;
+    background-color: #30233D;
+    height: 3px;
+}
+.up-lines{
+    width: 20px;
+    top: 15px;
+    left: 5px;
+    transform: rotate(90deg);
+}
+.up-lines:before{
+    content: '';
+    width: 10px;
+    top: 3px;
+    left: -1px;
+    transform: rotate(45deg);
+}
+.up-lines:after{
+    content: '';
+    width: 10px;
+    top: -3px;
+    left: -1px;
+    transform: rotate(-45deg);
+}
 /****************************footer******************************/

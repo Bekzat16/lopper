@@ -5,7 +5,11 @@
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/animate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/medias.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/medias.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-3.4.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -85,6 +89,13 @@
       <workItem from="1578880332530" duration="1784000" />
       <workItem from="1578883160269" duration="307000" />
       <workItem from="1579234235153" duration="4311000" />
+      <workItem from="1579329487542" duration="8186000" />
+      <workItem from="1579484999359" duration="1866000" />
+      <workItem from="1579494437465" duration="11000" />
+      <workItem from="1579494479024" duration="6894000" />
+      <workItem from="1579503153079" duration="727000" />
+      <workItem from="1579504746111" duration="973000" />
+      <workItem from="1579507211801" duration="1432000" />
     </task>
     <servers />
   </component>
@@ -96,7 +107,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
