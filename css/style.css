@@ -1011,6 +1011,7 @@ footer{
     color: #FCFCFC;
     mix-blend-mode: normal;
     margin-left: 18px;
+    transition: 0.5s;
 }
 .Contact ul li .span{
     font-family: 'M PLUS 1p', sans-serif;
@@ -1019,6 +1020,13 @@ footer{
     font-size: 16.2px;
     line-height: 26px;
     color: #FCFCFC;
+    transition: 0.5s;
+}
+.Contact ul li a{
+    text-decoration: none;
+}
+.Contact ul li span:hover{
+    color: #2a2a2a;
 }
 .Contact ul li img{
 
